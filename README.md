@@ -56,10 +56,8 @@ Narzędzia:
   *	Fabuła
   *	Oprawa dźwiękowa
   *	System statystyk
-
-
-  
-Etap 4:
+ 
+  Etap 4:
   
   *	Implementacja fabuły
   *	Implementacja dźwięku 
@@ -76,5 +74,3 @@ Etap 4:
    
   *	możliwe występowanie bugów
   *	problemy z systemem zapisu
-
-
