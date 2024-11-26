@@ -33,7 +33,7 @@ Narzędzia:
 
   *	Github (kontrola wersji)
   *	Visual Studio / Visual Studio Code (skrypty C#)
-  *	FL Studio (soundtrack)
+  *	Audacity (soundtrack)
   *	Pixel Art Studio (Tekstury)
 
 
