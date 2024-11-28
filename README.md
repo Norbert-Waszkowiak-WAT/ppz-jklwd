@@ -16,7 +16,6 @@ Klasa 3c:
 
 4. Zakres funkcjonalności - MVP
 
-  *	System zapisu
   *	System decyzji
   *	Fabuła
 
