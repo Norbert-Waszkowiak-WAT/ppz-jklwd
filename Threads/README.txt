@@ -1,5 +1,5 @@
 INDEKSY WATKOW
 ----------------------
 
-W1-W15 -> Watki Glowne
+W01-W15 -> watki glowne
 
